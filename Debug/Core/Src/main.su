@@ -1,0 +1,14 @@
+../Core/Src/main.c:64:6:TX_CAN	144	static
+../Core/Src/main.c:98:5:float_to_uint	40	static
+../Core/Src/main.c:106:7:uint_to_float	40	static
+../Core/Src/main.c:113:6:unpack_reply	208	static
+../Core/Src/main.c:137:6:pack_cmd	48	static
+../Core/Src/main.c:168:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/main.c:203:6:process_command	272	static
+../Core/Src/main.c:256:5:main	56	static
+../Core/Src/main.c:286:6:HAL_CAN_RxFifo1MsgPendingCallback	192	static
+../Core/Src/main.c:326:6:SystemClock_Config	72	static
+../Core/Src/main.c:365:13:MX_USART1_UART_Init	40	static
+../Core/Src/main.c:404:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:425:6:CAN_Config	104	static
+../Core/Src/main.c:493:6:Error_Handler	24	static,ignoring_inline_asm

@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "cstdint": "c",
+        "compare": "c",
+        "stm32f1xx_hal.h": "c",
+        "string.h": "c"
+    }
+}
